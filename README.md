@@ -124,19 +124,6 @@ The project also visualizes:
 
 ---
 
-## Project Structure
-
-```text
-BrainTumorSegmentation/
-│
-├── Brain Tumor Segmentation using MRI Images.ipynb
-├── app.py
-├── brain_tumor_segmentation.h5
-└── README.md
-```
-
----
-
 ## How to Run
 
 Install the required libraries:
